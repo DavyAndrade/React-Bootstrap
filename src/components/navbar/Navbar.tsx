@@ -15,7 +15,7 @@ function NavbarTop() {
 
       <Navbar className='navbar-color navbar-padding' variant="dark">
         <Container>
-          <Navbar.Brand href="/home">RestAndHunt</Navbar.Brand>
+          <Navbar.Brand href="/home">Navbar 1</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/home">Home</Nav.Link>
             <Nav.Link href="#features">Features</Nav.Link>
@@ -29,7 +29,7 @@ function NavbarTop() {
 
       <Navbar className='navbar-color2 navbar-padding' expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+        <Navbar.Brand href="#">Navbar 2</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
