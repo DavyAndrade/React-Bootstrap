@@ -3,3 +3,16 @@
     color: white;
   }
   
+.text-footer { 
+    color: white !important;
+}
+
+
+.link-footer {
+    text-decoration: none !important;
+}
+
+.link-footer:hover {
+    color: orange !important;
+    text-decoration: none !important;
+}

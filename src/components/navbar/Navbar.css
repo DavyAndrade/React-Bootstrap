@@ -1,11 +1,31 @@
 .navbar-color {
-    background-color: #0011ff;
+    background-color: #0060B1;
 }
 
 .navbar-color2 {
-    background-color: #ffae00;
+    background-color: #FF6500;
 }
 
-.navbar-padding {
-    padding: 0.7rem;
+.logo-size {
+    height: 3.5rem;
+    width: 11rem;
+}
+
+.navbar1-height {
+    padding-top: 1.45rem !important;
+    padding-bottom: 1.45rem !important;
+}
+
+.search-button {
+    background-color: #FF6500 !important;
+    width: 5rem !important;
+    height: auto;
+}
+
+.navbar2-position {
+    margin-left: 2rem !important;;
+}
+
+.navbar-text {
+    color: white !important;
 }
